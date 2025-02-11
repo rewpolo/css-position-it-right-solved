@@ -46,8 +46,8 @@
   background-color: green;
   border-radius: 50%;
   position: absolute;
-  top: 40%;
-  left: 31%;
+  top: 35%;
+  left: 32%;
   z-index: -100;
 }
 
@@ -57,10 +57,11 @@
   background: linear-gradient(#00c9ff, #92fe9d);
   border-radius: 50%;
   position: absolute;
-  top: 40%;
+  top: 35%;
   left: 69%;
   z-index: -100;
 }
+
 
 .robot-nose {
   height: 10px;
@@ -71,8 +72,8 @@
   position: absolute;
   top: 45%;
   left: 45%;
-
 }
+
 
 .robot-teeth {
   position: absolute;
@@ -83,6 +84,7 @@
   width: 15vw;
   border-radius: 0 0 150px 150px;
   background-color: #EBF00F;
+
 }
 
 .robot-tooth {
@@ -104,13 +106,5 @@
   position: absolute;
   left: 27.5%;
   top: 15%;
-}
-
-.robot-hair-one {
-}
-
-.robot-hair-two {
-}
-
-.robot-hair-three {
+  border-radius: 45%;
 }
